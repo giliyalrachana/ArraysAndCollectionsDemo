@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ArraysAndCollections.CJaggedArray</StartupObject>
+    <StartupObject>ArraysAndCollections.ArrayClassDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayClassDemo.cs" />
     <Compile Include="CJaggedArray.cs" />
     <Compile Include="MultiDimArray.cs" />
     <Compile Include="Program.cs" />
