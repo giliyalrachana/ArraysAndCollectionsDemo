@@ -1,0 +1,7 @@
+C:\Users\giliy\Desktop\Codes\Git and GitHub\ArraysAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.AssemblyReference.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\ArraysAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.CoreCompileInputs.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\ArraysAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe.config
+C:\Users\giliy\Desktop\Codes\Git and GitHub\ArraysAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\ArraysAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\bin\Debug\ArraysAndCollections.pdb
+C:\Users\giliy\Desktop\Codes\Git and GitHub\ArraysAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\ArraysAndCollectionsDemo\ArraysAndCollections\ArraysAndCollections\obj\Debug\ArraysAndCollections.pdb
